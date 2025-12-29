@@ -17,3 +17,67 @@ I am 1st year student studying Science Computer (Data Engineering).
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/FarizaAdlina" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/nur-fariza-adlina-binti-mohammad-faizal" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+
+## ABOUT ME
+*EDUCATION:-*
+
+◾SEKOLAH MENENGAH KEBANGSAAN RAJA PERMAISURI BAINUN, IPOH
+
+SPM Result : 5A,3B, 1D
+
+*Pure Science stream.*
+<table>
+  <tbody>
+    <tr>
+      <td>Year</td>
+      <td>Engagement</td>
+    </tr>
+    <td>2022</td>
+    <td>Partication as student committee in netball championship</td>
+    <tr>
+      <td>2023</td>
+      <td>Dormitory EXCO, (Block B treaseurer)
+        Sport House Treasurer,
+        Rukun Negara Club Treasurer,
+        Deputy Secretary of the Malaysian Red Crescent, 
+        Chess Club Auditor, and
+        National-level MSU INFOHUNT Participation</td>
+    </tr>
+  </tbody>
+</table>
+
+◾KOLEJ MATRIKULASI KEDAH
+
+CGPA: 3.92
+
+*Science Physical*
+<table>
+  <tbody>
+    <tr>
+      <td>Year</td>
+      <td>Engagement</td>
+    </tr>
+    <td>2025</td>
+    <td>Partication as student committee in Carinval Curiculum Matrikulation</td>
+  </tbody>
+</table>
+
+◾UNIVERSITY TECHNOLOGY MALAYSIA (UTM)
+
+*Bachelor in Computer Science (Data Engineering) with Honours*
+<table>
+  <tbody>
+    <tr>
+      <td>Year</td>
+      <td>Engagement</td>
+    </tr>
+    <td>2025</td>
+    <td>Member of the corporate unit and external relations authority in SENIMAS KTR and Partication as student committee in SENIMAS Bonding trip</td>
+  </tbody>
+</table>
+
+## PORTFOLIO
+
+*I updated my assignment, project, industry talk and industry visit in my portfolio*
+
+📍https://farizaadlina.github.io/Portfolio/
