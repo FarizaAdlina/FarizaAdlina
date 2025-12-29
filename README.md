@@ -33,14 +33,16 @@ SPM Result : 5A,3B, 1D
       <td>Engagement</td>
     </tr>
     <td>2022</td>
-    <td>Partication as student committee in netball championship</td>
+    <td>Participation as student committee in netball championship</td>
     <tr>
       <td>2023</td>
       <td>Dormitory EXCO, (Block B treaseurer)
         Sport House Treasurer,
         Rukun Negara Club Treasurer,
         Deputy Secretary of the Malaysian Red Crescent, 
-        Chess Club Auditor, and
+        Chess Club Auditor, 
+        pariticipation in addmath workshop at STAR, 
+        participation in addmath workshop at SMKRC and
         National-level MSU INFOHUNT Participation</td>
     </tr>
   </tbody>
@@ -58,7 +60,7 @@ CGPA: 3.92
       <td>Engagement</td>
     </tr>
     <td>2025</td>
-    <td>Partication as student committee in Carinval Curiculum Matrikulation</td>
+    <td>Participation as student committee in Carinval Curiculum Matriculation</td>
   </tbody>
 </table>
 
@@ -72,7 +74,7 @@ CGPA: 3.92
       <td>Engagement</td>
     </tr>
     <td>2025</td>
-    <td>Member of the corporate unit and external relations authority in SENIMAS KTR and Partication as student committee in SENIMAS Bonding trip</td>
+    <td>Member of the corporate unit and external relations authority in SENIMAS KTR and Participation as student committee in SENIMAS Bonding trip</td>
   </tbody>
 </table>
 
